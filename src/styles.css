@@ -2,3 +2,21 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.Moncomp {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.MonArt {
+  text-align: left;
+  color: white;
+  background-color: rgb(83, 145, 233);
+}
+
+.Monbutton {
+  padding: 10px;
+  border-color: blue;
+  background-color: white;
+  border-radius: 7px;
+}
